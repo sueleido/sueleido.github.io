@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#07131c"/>
+  <rect x="2" y="2" width="60" height="60" rx="10" fill="none" stroke="#99cfda" stroke-opacity="0.25" stroke-width="2"/>
+  <!-- Corner accents -->
+  <path d="M6 16 V6 H16" fill="none" stroke="#86f7d0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M48 6 H58 V16" fill="none" stroke="#55b8ff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M6 48 V58 H16" fill="none" stroke="#55b8ff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M48 58 H58 V48" fill="none" stroke="#86f7d0" stroke-width="3" stroke-linecap="round"/>
+  <!-- Text SC -->
+  <text x="32" y="40" font-family="'SFMono-Regular', 'Cascadia Code', 'Roboto Mono', Consolas, monospace" font-size="22" font-weight="800" fill="#86f7d0" text-anchor="middle" letter-spacing="1">SC</text>
+  <!-- Blinking status dot -->
+  <circle cx="52" cy="12" r="3" fill="#86f7d0"/>
+</svg>
